@@ -1,6 +1,6 @@
 # ES6
 **Destructuring**
-Arrays
+##Arrays
 ```js
     meuArray = [1,2,3];
     const [a,b,c] = meuArray;
@@ -10,7 +10,7 @@ Arrays
     console.log(c);  // saída será: 3
 ```
 
-Objetos
+##Objetos
 ```js
     meuObjeto = { nome: "Rafael", sobrenome: "Oliveira" };
     const { nome, sobrenome } = meuObjeto;
